@@ -1,2 +1,0 @@
-hello this is indias file
-para =20000
